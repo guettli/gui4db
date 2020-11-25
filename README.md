@@ -70,3 +70,11 @@ DRF provides OpenAPI (See [Schemas](https://www.django-rest-framework.org/api-gu
 
 
 
+# Prisma 2
+
+[Prisma2](https://www.prisma.io/) 
+
+But somehow I am unsure if this is cool. Very young (started 2019, after Prisma1 and Graphcool).
+
+
+
