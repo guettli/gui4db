@@ -78,3 +78,8 @@ But somehow I am unsure if this is cool. Very young (started 2019, after Prisma1
 
 
 
+# Hasura
+
+[Hasura at github](https://github.com/hasura/graphql-engine/)
+
+Looks good.
