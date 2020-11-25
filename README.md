@@ -61,6 +61,12 @@ Provides OpenAPI via a thin wrapper written in Haskel.
 
 [PostgREST](http://postgrest.org/)
 
+# Django Rest Framework
+
+DRF provides OpenAPI (See [Schemas](https://www.django-rest-framework.org/api-guide/schemas/))
+
+[django-restql](https://github.com/yezyilomo/django-restql) provides GraphQL
+
 
 
 
