@@ -1,2 +1,61 @@
-# gui4db
-List of ways to get a web GUI for a database
+# List of ways to get a web GUI for a database
+
+This is an opinionated list. 
+
+I would like to develop a new web application.
+
+Here I am listing tools to develop a web applications. This helps me to structure my research.
+
+# My Background
+
+I develop Django applications since 2008, this means 12 years.
+
+Django is great, and it is mature. I love the language Python.
+
+But time has changed. Maybe it is time to switch?
+
+# Database
+
+At the heart of every web application is a database.
+
+I worked with CSV files, sqlite, ZODB (an object oriented database for Python), MongoDB, MySQL and PostgreSQL.
+
+My favorite database is PostgreSQL.
+
+
+# Frontend
+
+Sending HTML over the wire is still very common. There are many productive applications created with
+Django, PHP, Rails, ...
+
+This way is perfectly fine. There are tools to help you to write modern application this way. A list
+of JS libraries which help here are on my [HTML over the wire](https://github.com/guettli/html-over-the-wire) page.
+
+But new applications get usualy build with Angular, React or Vue these days.
+
+At the moment I would choose Vue. But this is not settled yet.
+
+If I go the JSON-over-the-wire approach, I need a way to get an http API for my data inside PostgreSQL.
+
+# What kind of http API?
+
+Again, I am open minded and not settled yet.
+
+Here are some required features:
+
+* The API should have a parsable description, so that introspection is possible.
+
+OK, up to now I only have this requirement.
+
+This means it could be:
+
+* [GraphQL](https://en.wikipedia.org/wiki/GraphQL)
+* [OpenAPI/Swagger](https://en.wikipedia.org/wiki/OpenAPI_Specification)
+* [gRPC](https://en.wikipedia.org/wiki/GRPC)
+* [Thrift](https://en.wikipedia.org/wiki/Apache_Thrift)
+* ...
+
+
+
+
+
