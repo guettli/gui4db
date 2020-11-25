@@ -55,6 +55,11 @@ This means it could be:
 * [Thrift](https://en.wikipedia.org/wiki/Apache_Thrift)
 * ...
 
+# PostgREST
+
+Provides OpenAPI via a thin wrapper written in Haskel.
+
+[PostgREST](http://postgrest.org/)
 
 
 
