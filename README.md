@@ -76,6 +76,10 @@ DRF provides OpenAPI (See [Schemas](https://www.django-rest-framework.org/api-gu
 
 But somehow I am unsure if this is cool. Very young (started 2019, after Prisma1 and Graphcool).
 
+Works for several databases, not just PG. 
+
+Provides ORM, not an API.
+
 
 
 # Hasura
