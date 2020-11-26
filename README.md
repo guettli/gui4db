@@ -103,4 +103,4 @@ Implemented in JS+Typescript.
 
 # Conclusion
 
-I think I will keep it simple and use Django together with [VanillaJS](http://vanilla-js.com/). Dead simple: Send HTML from the server to the client.
+I think I will keep it simple and use Django together with plain TypeScript without a library. Dead simple: Send HTML from the server to the client.
