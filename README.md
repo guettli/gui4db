@@ -78,7 +78,7 @@ But somehow I am unsure if this is cool. Very young (started 2019, after Prisma1
 
 Works for several databases, not just PG. 
 
-Provides ORM, not an API.
+Provides ORM, not OpenAPI or GraphQL.
 
 
 
