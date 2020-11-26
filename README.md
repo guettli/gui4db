@@ -84,6 +84,10 @@ But somehow I am unsure if this is cool. Very young (started 2019, after Prisma1
 
 Looks good.
 
+Implemented in Haskel+JS.
+
 # 
 
 [PostGraphile Instant GraphQL API](https://www.graphile.org/postgraphile/)
+
+Implemented in JS+Typescript.
