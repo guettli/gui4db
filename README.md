@@ -104,3 +104,8 @@ Implemented in JS+Typescript.
 # Conclusion
 
 I think I will keep it simple and use Django together with plain TypeScript without a framework. Dead simple: Send HTML from the server to the client.
+
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
