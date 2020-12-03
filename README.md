@@ -103,7 +103,7 @@ Implemented in JS+Typescript.
 
 # Conclusion
 
-I think I will keep it simple and use Django together with plain TypeScript without a framework. Dead simple: Send HTML from the server to the client.
+I think I will keep it simple and use Django together with plain JavaScript without a framework. Dead simple: Send HTML from the server to the client. Maybe I will use Bootstrap.
 
 
 # More
